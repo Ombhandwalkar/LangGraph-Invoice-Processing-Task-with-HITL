@@ -566,13 +566,6 @@ API_PORT=8000
 - Use message queue for async processing
 - Implement horizontal scaling
 
-## 📝 License
-
-MIT License - See LICENSE file for details
-
-## 👥 Contributors
-
-Built for Analytos AI coding task
 
 ## 📧 Contact
 
